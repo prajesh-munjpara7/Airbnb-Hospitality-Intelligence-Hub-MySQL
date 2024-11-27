@@ -1,4 +1,4 @@
-# 1. Airbnb-Hospitality-Intelligence-Hub
+# 1. Airbnb-Hospitality-Intelligence-Hub (MySQL)
 #### Utilizing MySQL, I analyzed Airbnb data to uncover key trends in pricing and availability, providing actionable insights to optimize operations. The project enabled data-driven decisions, enhancing customer satisfaction and business performance.
 # 2. Project Overview
 #### This project leverages Airbnb's extensive data to gain insights into business operations, customer preferences, and pricing strategies in New York City. Using SQL, I analyzed the data from Airbnb's Listings and Booking_Details tables to uncover trends, optimize pricing strategies, and explore neighborhood-specific patterns. The project aims to demonstrate how data can empower businesses to make data-driven decisions to enhance customer satisfaction and maximize profitability.
